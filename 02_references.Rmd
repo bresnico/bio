@@ -1,0 +1,5 @@
+# Références
+
+jouer avec bibtex ici. Depuis un groupe Zotero ad hoc. dynamique= j'ajoute une ref dans zotero et ça s'affiche ici.
+
+Il me manque : afficher tout un bibtex. pas passer par les citekeys.
