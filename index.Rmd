@@ -1,0 +1,16 @@
+---
+title: "Bio"
+author: "Nicolas Bressoud"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+---
+
+<!-- rappel: le setup peut se régler et influencer tout le document.-->
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Préambule
+
+infos.
