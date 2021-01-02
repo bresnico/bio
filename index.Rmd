@@ -6,11 +6,15 @@ lang: fr
 output: bookdown::gitbook
 site: bookdown::bookdown_site
 bibliography: library_phd_m1.bib
+nocite: "@*"
+csl: apa.csl
 ---
 
 <!-- rappel: le setup peut se régler et influencer tout le document.-->
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+rmarkdown::find_pandoc(version = "2.7.3")
+
 ```
 
 
