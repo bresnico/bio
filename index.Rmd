@@ -5,7 +5,7 @@ date: "`r format(Sys.time(), '%B, %Y')`"
 lang: fr
 output: bookdown::gitbook
 site: bookdown::bookdown_site
-bibliography: library_phd_m1.bib
+bibliography: phd.bib
 nocite: "@*"
 csl: apa.csl
 ---
